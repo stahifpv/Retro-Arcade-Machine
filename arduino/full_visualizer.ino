@@ -15,7 +15,7 @@
 
 //Constants (change these as necessary)
 #define LED_PIN   A5  //Pin for the pixel strand. Can be analog or digital.
-#define LED_TOTAL 60  //Change this to the number of LEDs in your strand.
+#define LED_TOTAL 300  //Change this to the number of LEDs in your strand.
 #define LED_HALF  LED_TOTAL/2
 #define VISUALS   6   //Change this accordingly if you add/remove a visual in the switch-case in Visualize()
 
